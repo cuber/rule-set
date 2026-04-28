@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,ipqualityscore.com
   - DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,ping0.lol
   - DOMAIN-SUFFIX,proxycheck.io
   - DOMAIN-SUFFIX,qos.hourui.de
   - DOMAIN-SUFFIX,right.com.cn
