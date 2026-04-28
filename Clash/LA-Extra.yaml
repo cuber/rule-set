@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,maxmind.com
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,proxycheck.io
+  - DOMAIN-SUFFIX,qos.hourui.de
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,saltyfish.io
   - DOMAIN-SUFFIX,scamalytics.com
