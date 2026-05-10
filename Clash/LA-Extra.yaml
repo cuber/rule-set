@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,saltyfish.io
   - DOMAIN-SUFFIX,scamalytics.com
+  - DOMAIN-SUFFIX,typeless.com
   - DOMAIN-SUFFIX,wepc.com
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
