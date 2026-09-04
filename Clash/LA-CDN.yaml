@@ -2,3 +2,6 @@ payload:
   - DOMAIN,persistent.oaistatic.com
   - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,officecdn.microsoft.com
+  - DOMAIN-SUFFIX,cdn.office.net
+  - DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
