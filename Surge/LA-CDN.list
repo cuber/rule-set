@@ -1,5 +1,9 @@
 DOMAIN,persistent.oaistatic.com
 DOMAIN,vscode.download.prss.microsoft.com
+DOMAIN,update.code.visualstudio.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,cdn.office.net
