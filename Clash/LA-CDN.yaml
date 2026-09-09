@@ -11,3 +11,11 @@ payload:
   - DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN,registry.npmjs.org
+  - DOMAIN,edgedl.me.gvt1.com
+  - DOMAIN,dl.google.com
+  - DOMAIN,dl-ssl.google.com
+  - DOMAIN,redirector.gvt1.com
+  - DOMAIN,tools.google.com
+  - DOMAIN,update.googleapis.com
+  - DOMAIN,ardownload3.adobe.com
+  - DOMAIN-SUFFIX,surrit.com
