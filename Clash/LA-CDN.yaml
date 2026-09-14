@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,officecdn.microsoft.com
   - DOMAIN-SUFFIX,cdn.office.net
   - DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
+  - DOMAIN,res.public.onecdn.static.microsoft
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN,registry.npmjs.org
   - DOMAIN,edgedl.me.gvt1.com
