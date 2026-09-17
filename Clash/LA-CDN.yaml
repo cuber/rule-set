@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,downloads.cursor.com
   - DOMAIN,us.aws.cdn.hf.co
   - DOMAIN,us.gcp.cdn.hf.co
   - DOMAIN,cdn-lfs-us-1.hf.co
