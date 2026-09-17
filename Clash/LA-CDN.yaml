@@ -1,4 +1,12 @@
 payload:
+  - DOMAIN,us.aws.cdn.hf.co
+  - DOMAIN,us.gcp.cdn.hf.co
+  - DOMAIN,cdn-lfs-us-1.hf.co
+  - DOMAIN,cdn-lfs-eu-1.hf.co
+  - DOMAIN,transfer.xethub.hf.co
+  - DOMAIN,transfer.xethub-eu.hf.co
+  - DOMAIN,cas-server.xethub.hf.co
+  - DOMAIN,cas-server.xethub-eu.hf.co
   - DOMAIN,hq2.skytigris.cn
   - DOMAIN,live.skytigris.cn
   - DOMAIN,fstream.binance.com
