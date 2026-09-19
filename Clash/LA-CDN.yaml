@@ -10,6 +10,7 @@ payload:
   - DOMAIN,cas-server.xethub-eu.hf.co
   - DOMAIN,hq2.skytigris.cn
   - DOMAIN,live.skytigris.cn
+  - DOMAIN,virtual-trade.skytigris.cn
   - DOMAIN,fstream.binance.com
   - DOMAIN,dstream.binance.com
   - DOMAIN,stream.binance.com
