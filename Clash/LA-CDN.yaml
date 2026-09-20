@@ -5,14 +5,12 @@ payload:
   - DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
   - DOMAIN,cursor.blob.core.windows.net
   - DOMAIN,download.todesktop.com
-  - DOMAIN,us.aws.cdn.hf.co
-  - DOMAIN,us.gcp.cdn.hf.co
+  - DOMAIN-SUFFIX,cdn.hf.co
+  - DOMAIN-SUFFIX,xethub.hf.co
+  - DOMAIN-SUFFIX,xethub-eu.hf.co
+  - DOMAIN,cdn-lfs.hf.co
   - DOMAIN,cdn-lfs-us-1.hf.co
   - DOMAIN,cdn-lfs-eu-1.hf.co
-  - DOMAIN,transfer.xethub.hf.co
-  - DOMAIN,transfer.xethub-eu.hf.co
-  - DOMAIN,cas-server.xethub.hf.co
-  - DOMAIN,cas-server.xethub-eu.hf.co
   - DOMAIN,fstream.binance.com
   - DOMAIN,dstream.binance.com
   - DOMAIN,stream.binance.com
