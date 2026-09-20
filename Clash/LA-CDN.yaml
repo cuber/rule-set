@@ -37,6 +37,7 @@ payload:
   - DOMAIN,tools.google.com
   - DOMAIN,update.googleapis.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN,ardownload.adobe.com
   - DOMAIN,ardownload2.adobe.com
   - DOMAIN,ardownload3.adobe.com
