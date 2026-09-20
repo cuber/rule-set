@@ -1,5 +1,15 @@
 payload:
+  - DOMAIN,downloads.claude.ai
   - DOMAIN,downloads.cursor.com
+  - DOMAIN,api2.cursor.sh
+  - DOMAIN,api2direct.cursor.sh
+  - DOMAIN,api3.cursor.sh
+  - DOMAIN,api4.cursor.sh
+  - DOMAIN-SUFFIX,api5.cursor.sh
+  - DOMAIN,repo42.cursor.sh
+  - DOMAIN,us-asia.gcpp.cursor.sh
+  - DOMAIN,us-eu.gcpp.cursor.sh
+  - DOMAIN,us-only.gcpp.cursor.sh
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN,marketplace.cursorapi.com
   - DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
@@ -28,12 +38,17 @@ payload:
   - DOMAIN,res.public.onecdn.static.microsoft
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN,registry.npmjs.org
+  - DOMAIN,static.crates.io
+  - DOMAIN,static.rust-lang.org
   - DOMAIN,edgedl.me.gvt1.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl-ssl.google.com
   - DOMAIN,redirector.gvt1.com
   - DOMAIN,tools.google.com
   - DOMAIN,update.googleapis.com
+  - DOMAIN-SUFFIX,storage.googleapis.com
+  - DOMAIN,commondatastorage.googleapis.com
+  - DOMAIN,chrome-infra-packages.appspot.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN,ardownload.adobe.com
