@@ -51,6 +51,7 @@ payload:
   - DOMAIN,commondatastorage.googleapis.com
   - DOMAIN,chrome-infra-packages.appspot.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN,ardownload.adobe.com
   - DOMAIN,ardownload2.adobe.com
