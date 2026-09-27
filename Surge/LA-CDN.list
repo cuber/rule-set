@@ -70,3 +70,5 @@ DOMAIN,prod-rel-ffc-ccm.oobesaas.adobe.com
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,tron-prod-customized-user-packages.s3.amazonaws.com
 DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,savenow.to
+DOMAIN-SUFFIX,lbserver.xyz
