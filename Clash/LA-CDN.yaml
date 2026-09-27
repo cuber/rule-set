@@ -36,7 +36,8 @@ payload:
   - DOMAIN-SUFFIX,officecdn.microsoft.com
   - DOMAIN-SUFFIX,cdn.office.net
   - DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
-  - DOMAIN,res.public.onecdn.static.microsoft
+  - DOMAIN-SUFFIX,static.microsoft
+  - DOMAIN,oneclient.sfx.ms
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN,registry.npmjs.org
   - DOMAIN,static.crates.io
