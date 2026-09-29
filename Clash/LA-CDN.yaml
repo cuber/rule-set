@@ -3,6 +3,7 @@ payload:
   - DOMAIN,download.cue.im
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN,downloads.claude.ai
+  - DOMAIN,releases.openai.com
   - DOMAIN,downloads.cursor.com
   - DOMAIN,api2.cursor.sh
   - DOMAIN,api2direct.cursor.sh
