@@ -2,6 +2,9 @@ payload:
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN,download.cue.im
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,cdn-telegram.org
+  - DOMAIN-SUFFIX,telegram-cdn.org
   - DOMAIN,downloads.claude.ai
   - DOMAIN,releases.openai.com
   - DOMAIN,downloads.cursor.com
