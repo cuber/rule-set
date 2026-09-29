@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,cue.im
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,dnsleaktest.com
@@ -13,6 +15,7 @@ DOMAIN-SUFFIX,iphub.info
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,models.dev
