@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN,marketplace.cursorapi.com
   - DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
-  - DOMAIN,cursor.blob.core.windows.net
+  - DOMAIN-SUFFIX,blob.core.windows.net
   - DOMAIN,download.todesktop.com
   - DOMAIN-SUFFIX,cdn.hf.co
   - DOMAIN-SUFFIX,xethub.hf.co
