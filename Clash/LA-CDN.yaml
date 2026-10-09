@@ -34,6 +34,7 @@ payload:
   - DOMAIN,ws.gmgn.ai
   - DOMAIN,persistent.oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN,hatch.metaaivm.com
   - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,update.code.visualstudio.com
   - DOMAIN-SUFFIX,vscode-cdn.net
@@ -45,14 +46,20 @@ payload:
   - DOMAIN,cdn.storeedgefd.dsx.mp.microsoft.com
   - DOMAIN-SUFFIX,static.microsoft
   - DOMAIN,oneclient.sfx.ms
+  # AMD driver/software downloads and legacy redirect entry.
+  - DOMAIN,drivers.amd.com
+  - DOMAIN,download.amd.com
+  - DOMAIN,www2.ati.com
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN,registry.npmjs.org
+  - DOMAIN,files.pythonhosted.org
   - DOMAIN,static.crates.io
   - DOMAIN,static.rust-lang.org
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl-ssl.google.com
   - DOMAIN,tools.google.com
+  - DOMAIN,clients2.googleusercontent.com
   - DOMAIN,update.googleapis.com
   - DOMAIN-SUFFIX,storage.googleapis.com
   - DOMAIN,commondatastorage.googleapis.com
