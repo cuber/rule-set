@@ -58,7 +58,12 @@ payload:
   - DOMAIN,commondatastorage.googleapis.com
   - DOMAIN,chrome-infra-packages.appspot.com
   - DOMAIN-SUFFIX,googlevideo.com
+  # X/Twitter videos, images, avatars and static assets, including video-s.twimg.com.
   - DOMAIN-SUFFIX,twimg.com
+  # Media sources declared by https://x.com/ (Content-Security-Policy).
+  - DOMAIN-SUFFIX,video.pscp.tv
+  - DOMAIN-SUFFIX,watch.x.com
+  - DOMAIN,ton.twitter.com
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN,ardownload.adobe.com
   - DOMAIN,ardownload2.adobe.com
