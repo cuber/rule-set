@@ -35,7 +35,6 @@ payload:
   - DOMAIN,persistent.oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN,hatch.metaaivm.com
-  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,update.code.visualstudio.com
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN,download.visualstudio.microsoft.com
