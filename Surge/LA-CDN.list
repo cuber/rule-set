@@ -48,6 +48,17 @@ DOMAIN,oneclient.sfx.ms
 DOMAIN,drivers.amd.com
 DOMAIN,download.amd.com
 DOMAIN,www2.ati.com
+# Mozilla installers, update payloads, archives and extension packages.
+DOMAIN,download.mozilla.org
+DOMAIN,download.cdn.mozilla.net
+DOMAIN,download-installer.cdn.mozilla.net
+DOMAIN-SUFFIX,stubdownloader.services.mozilla.com
+DOMAIN,archive.mozilla.org
+DOMAIN,ftp.mozilla.org
+DOMAIN,releases.mozilla.org
+# XPI downloads moved here from the retired addons.cdn.mozilla.net.
+# https://github.com/mozilla/addons/issues/8725
+DOMAIN,addons.mozilla.org
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN,registry.npmjs.org
 DOMAIN,files.pythonhosted.org
