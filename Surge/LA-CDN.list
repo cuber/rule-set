@@ -64,6 +64,18 @@ DOMAIN,registry.npmjs.org
 DOMAIN,files.pythonhosted.org
 DOMAIN,static.crates.io
 DOMAIN,static.rust-lang.org
+# Docker installers, updates and image pulls, including pull-token authentication.
+# https://docs.docker.com/desktop/enterprise/allow-list/
+DOMAIN,get.docker.com
+DOMAIN,download.docker.com
+DOMAIN,desktop.docker.com
+DOMAIN,auth.docker.io
+DOMAIN,registry-1.docker.io
+DOMAIN,production.cloudfront.docker.com
+DOMAIN,production.cloudflare.docker.com
+# Docker's dedicated image-blob bucket; do not match all Cloudflare R2 buckets.
+# https://github.com/docker/docs/issues/21960
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN,dl.google.com
 DOMAIN,dl-ssl.google.com
