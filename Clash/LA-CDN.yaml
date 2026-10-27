@@ -32,6 +32,13 @@ payload:
   - DOMAIN,dstream.binance.com
   - DOMAIN,stream.binance.com
   - DOMAIN,ws.gmgn.ai
+  # TradingView static assets, chart images, symbol logos and desktop packages.
+  # https://www.tradingview.com/widget-docs/widgets/symbol-details/symbol-info/
+  # https://www.tradingview.com/support/solutions/43000728898-how-to-install-and-update-desktop-app-on-linux/
+  - DOMAIN,static.tradingview.com
+  - DOMAIN,s3.tradingview.com
+  - DOMAIN,s3-symbol-logo.tradingview.com
+  - DOMAIN,tvd-packages.tradingview.com
   - DOMAIN,persistent.oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN,hatch.metaaivm.com
