@@ -1,4 +1,7 @@
 payload:
+  # Explicit download hosts; keep product websites and APIs on their existing rules.
+  - DOMAIN,download.codebuddy.cn
+  - DOMAIN,download.qoder.com
   - DOMAIN-SUFFIX,download.prss.microsoft.com
   - DOMAIN-SUFFIX,skytigris.cn
   - DOMAIN-SUFFIX,tbsite.net
