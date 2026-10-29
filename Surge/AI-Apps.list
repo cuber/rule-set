@@ -1,0 +1,5 @@
+# AI apps (Surge Mac 6+ app bundle prefix matching).
+PROCESS-NAME,/Applications/Claude.app/
+PROCESS-NAME,/Applications/ChatGPT.app/
+PROCESS-NAME,/Applications/Muse.app/
+PROCESS-NAME,/Applications/Gemini.app/
