@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,opncd.ai
+  - DOMAIN-SUFFIX,perso.na
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,ping0.lol
   - DOMAIN-SUFFIX,proxycheck.io
@@ -34,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,wepc.com
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,withpersona.com
