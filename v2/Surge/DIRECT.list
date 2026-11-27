@@ -40,12 +40,6 @@ DOMAIN-SUFFIX,99fund.com
 DOMAIN-SUFFIX,abc-ca.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,ajzq.com
-DOMAIN-SUFFIX,alibaba-inc.com
-DOMAIN-SUFFIX,alibaba.net
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipay.net
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,avicfund.cn
 DOMAIN-SUFFIX,avicsec.com
 DOMAIN-SUFFIX,bank-of-china.com
@@ -171,7 +165,6 @@ DOMAIN-SUFFIX,dccnet.com.cn
 DOMAIN-SUFFIX,dfham.com
 DOMAIN-SUFFIX,dfzq.com.cn
 DOMAIN-SUFFIX,dgzq.com.cn
-DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN-SUFFIX,dtsbc.com.cn
 DOMAIN-SUFFIX,dwjq.com.cn
@@ -297,9 +290,6 @@ DOMAIN-SUFFIX,swsmu.com
 DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,szsi.cn
 DOMAIN-SUFFIX,taipingfund.com.cn
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobao.net
-DOMAIN-SUFFIX,tbsite.net
 DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,tebon.com.cn
 DOMAIN-SUFFIX,test-cignacmb.com
@@ -308,7 +298,6 @@ DOMAIN-SUFFIX,thfund.com.cn
 DOMAIN-SUFFIX,tongtaiamc.com
 DOMAIN-SUFFIX,tpyzq.com
 DOMAIN-SUFFIX,ubssdic.com
-DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpaysecure.com
